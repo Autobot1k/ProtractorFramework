@@ -41,7 +41,7 @@ describe('demo calculator tests', function(){
         // expect(result.getText()).toEqual('4');
         homepage.verifyResult('4');
 
-        browser.sleep(4000)
+        browser.sleep(3000)
     });
 
 
